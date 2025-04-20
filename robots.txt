@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*?*
+Disallow: /index.html
+Sitemap: https://avtoservice.github.io/sitemap.xml
