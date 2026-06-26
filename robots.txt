@@ -3,8 +3,5 @@ Disallow: /*?*
 Disallow: /index.html
 Sitemap: https://avtoservice.github.io/sitemap.xml
 
-User-agent: Googlebot
-Disallow: /
-
 User-agent: GPTBot
 Disallow: /
